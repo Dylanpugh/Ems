@@ -10,7 +10,10 @@
   font-weight: bold;
 }
 
-
+#cardimage {
+  width: 250;
+  height: 250;
+}
 
 nav ul a,
 nav .brand-logo {
