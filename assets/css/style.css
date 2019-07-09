@@ -5,6 +5,13 @@
  *
  * Made By MaterializeCSS.com
  */
+.links{
+  font-weight: bold;
+}
+.links:hover {
+  background-color: red;
+}
+
 #header {
   color: #031A46;
   font-weight: bold;
