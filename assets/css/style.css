@@ -5,6 +5,15 @@
  *
  * Made By MaterializeCSS.com
  */
+
+ h5{
+   font-weight: bold;
+ }
+
+ body{
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+ }
+
 .links{
   font-weight: bold;
 }
