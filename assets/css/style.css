@@ -6,6 +6,14 @@
  * Made By MaterializeCSS.com
  */
 
+ p{
+   font-size: 20px;
+ }
+
+.card-content{
+  font-size: 20px;
+}
+
  h5{
    font-weight: bold;
  }
