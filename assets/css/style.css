@@ -76,6 +76,12 @@ p {
   #index-banner .section {
     top: 0;
   }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
 }
 
 .icon-block {
